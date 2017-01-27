@@ -1,5 +1,7 @@
 #Test Program By Earl
 print("Hello World")
+name = input("What is your name? ")
+print("Hi, " + name + ". I like you :)")
 a = 99 # Start with the usual number of bottles
 
 # What do we want to say
